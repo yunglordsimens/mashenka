@@ -41,17 +41,17 @@ body {
 }
 
 a.link1 {
-    color: #00FF15;
+    color:#FF0004;
     text-decoration: underline;
 }
 
 a.link2 {
-    color: #FF0004;
+    color: #0f0; 
     text-decoration: underline;
 }
 
 a.link1:hover,
 a.link2:hover {
     color: #FF00F2;
-    text-decoration: none;
+    text-decoration: none; 
 }
