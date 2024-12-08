@@ -40,6 +40,13 @@ body {
     display: block;
 }
 
+.image3 {
+    height: 200px;
+    width: auto;
+    margin: 20px 0;
+    display: block;
+}
+
 a.link1 {
     color:#FF0004;
     text-decoration: underline;
