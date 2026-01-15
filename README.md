@@ -29,7 +29,7 @@ The visual style embraces a raw, brutalist web aesthetic (Y2K), utilizing custom
 | Role | Name | Details |
 | :--- | :--- | :--- |
 | **Concept & Web Development** | **Maria Chernobay** | HTML, CSS, Structure, Bilingual integration |
-| **Photography** | **Maria Chernobay** | Self-portraits and art direction |
+| **Photography** | **Maria Chernobay** | Photos and art direction |
 | **Graphic Design** | **Oleksandr Hohulia** | Poster artwork and graphic assets |
 
 ## Tech Stack
