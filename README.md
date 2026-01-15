@@ -16,7 +16,7 @@ This website was created to organize and inform guests about the event details, 
 
 **Key Features:**
 * **Bilingual Interface:** Content adapted for two languages.
-* **Custom Content:** Self-produced photography and creative direction.
+* **Custom Content:** Photography and creative direction.
 * **Interactive Elements:** Integrated wishlist and location details.
 * **Responsive Design:** Adapted for mobile and desktop viewing.
 
