@@ -6,7 +6,7 @@ A personal website serving as a digital invitation and information hub for a bir
 
 ---
 
-![Website Preview](./preview.gif)
+![Website Preview](preview.gif)
 
 ---
 
