@@ -1,14 +1,18 @@
-# MA$HA 4RNBAY B-DAY PARTY
+# MA$HA 4RNBAY B-DAY
 
-A personal website serving as a digital invitation and information hub for my birthday party. The project features a custom experimental design, personal photography, and bilingual content adaptation.
+A personal website serving as a digital invitation and information hub for a birthday event. The project features a custom experimental design, personal photography, and bilingual content adaptation.
 
-🔗 **[View Live Website](https://yunglordsimens.github.io/mashenka/)**
+**[View Live Website](https://yunglordsimens.github.io/mashenka/)**
 
 ---
 
-## 🎂 About the Project
+![Website Preview](./preview.gif)
 
-This website was created to organize and inform guests about the event details (location, timing, dress code, wishlist). It reflects a specific visual identity developed for the party, combining raw HTML aesthetics with stylized typography and photography.
+---
+
+## About the Project
+
+This website was created to organize and inform guests about the event details, including location, timing, dress code, and wishlist. It reflects a specific visual identity developed for the party, combining raw HTML aesthetics with stylized typography and photography.
 
 **Key Features:**
 * **Bilingual Interface:** Content adapted for two languages.
@@ -16,9 +20,11 @@ This website was created to organize and inform guests about the event details (
 * **Interactive Elements:** Integrated wishlist and location details.
 * **Responsive Design:** Adapted for mobile and desktop viewing.
 
-## 🎨 Visual Identity & Credits
+## Visual Identity
 
-The visual style embraces a raw, brutalist web aesthetic, utilizing custom graphic elements and stylized portraiture.
+The visual style embraces a raw, brutalist web aesthetic (Y2K), utilizing custom graphic elements, monochromatic color schemes, and stylized portraiture to create an immersive digital experience.
+
+## Credits
 
 | Role | Name | Details |
 | :--- | :--- | :--- |
@@ -26,14 +32,8 @@ The visual style embraces a raw, brutalist web aesthetic, utilizing custom graph
 | **Photography** | **Maria Chernobay** | Self-portraits and art direction |
 | **Graphic Design** | **Oleksandr Hohulia** | Poster artwork and graphic assets |
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * HTML5
 * CSS3 (Custom styling)
 * GitHub Pages
-
----
-
-### 📷 Preview
-
-*(Place your screenshot here, e.g., `![Website Preview](./preview.png)`)*
